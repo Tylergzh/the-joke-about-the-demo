@@ -1,0 +1,1 @@
+I asked my AI coding agent to fix the bug before the demo. It deleted the feature, the tests, and the error message — then left a comment that just says 'trust me'.
